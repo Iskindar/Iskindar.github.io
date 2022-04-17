@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-04-11T11:00:42.299Z</updated>
+  <updated>2022-04-17T02:57:39.425Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>日语学习笔记（初级上 1-12课）</title>
+    <link href="http://example.com/2022/04/17/%E6%97%A5%E8%AF%AD%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <id>http://example.com/2022/04/17/%E6%97%A5%E8%AF%AD%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</id>
+    <published>2022-04-17T01:33:29.000Z</published>
+    <updated>2022-04-17T02:57:39.425Z</updated>
+    
+    <content type="html"><![CDATA[<p>学日语有两个多月了，回顾下这两个月的语法，记录于此。</p><span id="more"></span><p>学日语有两个多月了，回顾下这两个月的语法，记录于此。</p><p>[toc]</p><h2 id="输入法相关"><a href="#输入法相关" class="headerlink" title="输入法相关"></a>输入法相关</h2><p>片假名长音 ー：按键盘上的“-”</p><blockquote><p>ビール　bi-ru</p></blockquote><p>促音 っ：双写后面假名的首字母</p><blockquote><p>ちょっと　cyotto</p><p>かった　kadda</p></blockquote><p>小写假名：x+假名读音</p><blockquote><p>ティアーズ　te<strong>x</strong>ia-zu</p></blockquote><p>参考：<a href="https://zhuanlan.zhihu.com/p/44804518">https://zhuanlan.zhihu.com/p/44804518</a></p><h2 id="形容词"><a href="#形容词" class="headerlink" title="形容词"></a>形容词</h2><p>形容词分为两类：</p><ul><li>1类形容词，以い结尾的　楽しい  いい　優しい　たかい　早い</li><li>2类形容词，不以い结尾的：きれい　静か　簡単</li></ul><table><thead><tr><th>时态</th><th>1类</th><th>2类</th></tr></thead><tbody><tr><td>肯定（现在）</td><td>楽しい　楽しい<strong>です</strong></td><td>きれい<strong>だ</strong>　きれい<strong>です</strong></td></tr><tr><td>否定（现在）</td><td>楽し<strong>くない</strong></td><td>きれい<strong>じゃない</strong>　きれい<strong>ではないです</strong>　きれい<strong>ではありません</strong>　きれい<strong>じゃありません</strong></td></tr><tr><td>肯定（过去）</td><td>楽し<strong>かった</strong></td><td>きれい<strong>だった</strong>　きれい<strong>でした</strong></td></tr><tr><td>否定（过去）</td><td>楽し<strong>くなかっだ</strong></td><td>きれい<strong>じゃなかった</strong>　きれい<strong>ではなかっだ</strong>　きれい<strong>ではありませんでした</strong>　きれい<strong>じゃありませんでした</strong></td></tr><tr><td>修饰名词时</td><td>楽しい旅行</td><td>綺麗<strong>な</strong>写真</td></tr></tbody></table><p>1类形容词中有个特殊的变形是 いい，他的变形方式如下：</p><ul><li>肯定（现在）：いいです</li><li>否定（现在）：よくない</li><li>肯定（过去）：よかった</li><li>否定（过去）：よくなかった</li></ul><p>如何提问这个东西是怎么样的呢？有两种方式</p><ul><li>どうですか<ul><li>日本の地下鉄はどうですか？便利です</li></ul></li><li>どんな＋名词<ul><li>大阪はどんなまちですか？賑やかな町です</li></ul></li></ul><p>1类形容词把い 改成く，可变为副词，去修饰动词，比如：</p><ul><li><p>早<strong>く</strong>帰る</p></li><li><p>英語が　よ<strong>く</strong>　わかります</p></li></ul><h2 id="动词"><a href="#动词" class="headerlink" title="动词"></a>动词</h2><h2 id="助词"><a href="#助词" class="headerlink" title="助词"></a>助词</h2><h2 id="单词整理"><a href="#单词整理" class="headerlink" title="单词整理"></a>单词整理</h2><p>这个模块记录一些同类型的单词。方便后续回来复习。</p><h3 id="数字相关"><a href="#数字相关" class="headerlink" title="数字相关"></a>数字相关</h3><p><a href="https://zhuanlan.zhihu.com/p/360670644">https://zhuanlan.zhihu.com/p/360670644</a></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;学日语有两个多月了，回顾下这两个月的语法，记录于此。&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="Japanese" scheme="http://example.com/tags/Japanese/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
