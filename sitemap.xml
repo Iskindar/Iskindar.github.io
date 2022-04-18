@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://iskindar.github.io/2022/04/17/%E6%97%A5%E8%AF%AD%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
+    <loc>https://iskindar.tech/2022/04/17/%E6%97%A5%E8%AF%AD%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
     
     <lastmod>2022-04-17</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://iskindar.github.io/about/index.html</loc>
+    <loc>https://iskindar.tech/about/index.html</loc>
     
     <lastmod>2022-04-11</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://iskindar.github.io/2022/04/09/hello-world/</loc>
+    <loc>https://iskindar.tech/2022/04/09/hello-world/</loc>
     
     <lastmod>2022-04-11</lastmod>
     
@@ -30,7 +30,7 @@
   
 
   <url>
-    <loc>https://iskindar.github.io/</loc>
+    <loc>https://iskindar.tech/</loc>
     <lastmod>2022-04-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -38,7 +38,7 @@
 
   
   <url>
-    <loc>https://iskindar.github.io/tags/Japanese/</loc>
+    <loc>https://iskindar.tech/tags/Japanese/</loc>
     <lastmod>2022-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
