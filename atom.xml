@@ -3,11 +3,11 @@
   <title>iskindar的小站</title>
   
   <subtitle>All is well</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://iskindar.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://iskindar.github.io/"/>
   <updated>2022-04-17T02:57:39.425Z</updated>
-  <id>http://example.com/</id>
+  <id>https://iskindar.github.io/</id>
   
   <author>
     <name>iskindar</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>日语学习笔记（初级上 1-12课）</title>
-    <link href="http://example.com/2022/04/17/%E6%97%A5%E8%AF%AD%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-    <id>http://example.com/2022/04/17/%E6%97%A5%E8%AF%AD%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</id>
+    <link href="https://iskindar.github.io/2022/04/17/%E6%97%A5%E8%AF%AD%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <id>https://iskindar.github.io/2022/04/17/%E6%97%A5%E8%AF%AD%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</id>
     <published>2022-04-17T01:33:29.000Z</published>
     <updated>2022-04-17T02:57:39.425Z</updated>
     
@@ -31,14 +31,14 @@
     
     
     
-    <category term="Japanese" scheme="http://example.com/tags/Japanese/"/>
+    <category term="Japanese" scheme="https://iskindar.github.io/tags/Japanese/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2022/04/09/hello-world/"/>
-    <id>http://example.com/2022/04/09/hello-world/</id>
+    <link href="https://iskindar.github.io/2022/04/09/hello-world/"/>
+    <id>https://iskindar.github.io/2022/04/09/hello-world/</id>
     <published>2022-04-09T15:03:49.679Z</published>
     <updated>2022-04-11T11:00:42.299Z</updated>
     

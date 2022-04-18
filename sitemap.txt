@@ -1,5 +1,5 @@
-http://example.com/2022/04/17/%E6%97%A5%E8%AF%AD%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/
-http://example.com/about/index.html
-http://example.com/2022/04/09/hello-world/
-http://example.com/
-http://example.com/tags/Japanese/
+https://iskindar.github.io/2022/04/17/%E6%97%A5%E8%AF%AD%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/
+https://iskindar.github.io/about/index.html
+https://iskindar.github.io/2022/04/09/hello-world/
+https://iskindar.github.io/
+https://iskindar.github.io/tags/Japanese/
