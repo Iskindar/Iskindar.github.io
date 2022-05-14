@@ -2,9 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://iskindar.tech/2022/05/14/%E3%80%90%E6%97%A5%E8%AF%AD%E5%AD%A6%E4%B9%A0%E3%80%91N5%E5%8A%A8%E8%AF%8D%E6%95%B4%E7%90%86/</loc>
+    
+    <lastmod>2022-05-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://iskindar.tech/2022/04/17/%E6%97%A5%E8%AF%AD%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
     
-    <lastmod>2022-04-17</lastmod>
+    <lastmod>2022-04-24</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -31,7 +40,7 @@
 
   <url>
     <loc>https://iskindar.tech/</loc>
-    <lastmod>2022-04-18</lastmod>
+    <lastmod>2022-05-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -39,7 +48,7 @@
   
   <url>
     <loc>https://iskindar.tech/tags/Japanese/</loc>
-    <lastmod>2022-04-18</lastmod>
+    <lastmod>2022-05-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
